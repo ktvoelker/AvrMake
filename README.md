@@ -1,6 +1,6 @@
 
-AvrMake: a simple build system for AVR devices
-==============================================
+AvrMake: a simple build system for AVR
+======================================
 
 AvrMake is a makefile for building AVR libraries and programs. It can also build the
 Arduino core library and other libraries packaged with the Arduino IDE.
