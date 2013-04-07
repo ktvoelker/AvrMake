@@ -1,0 +1,5 @@
+#!/bin/sh
+exec /bin/sh "${AVRMAKE}/lib/install-arduino.sh" \
+  "$1" \
+  "${ARDUINO}/libraries/$1" \
+  "Arduino"

@@ -1,0 +1,10 @@
+
+DUDEPART := m328p
+DUDEBAUD := 115200
+
+CPUSPEED := 16000000UL
+MMCU     := atmega328p
+AVRDEF   := __AVR_ATmega328P__
+
+VARIANT  := standard
+

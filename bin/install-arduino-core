@@ -1,0 +1,5 @@
+#!/bin/sh
+exec /bin/sh "${AVRMAKE}/lib/install-arduino.sh" \
+  Arduino \
+  "${ARDUINO}/hardware/arduino/cores/arduino" \
+  ""
